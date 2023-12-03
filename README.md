@@ -1,5 +1,9 @@
-# ProbStat-ESP--Bus-punctuality-predictor
+# Predicting the Punctuality of Montreal's Bus Network
+### Fernando Gandara Castillo
+### Vanier College
 
-This repository contains the data and scripts related to a predictive model of STM bus punctuality.
+
+
+This repository contains the assets related to the 
 
 ## Installation
