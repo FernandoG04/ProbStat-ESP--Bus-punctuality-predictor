@@ -11,19 +11,19 @@ This repository contains assets related to the Program Comprehensive Assessment 
     - [0. Abstract](#0-abstract)
     - [1. Introduction](#1-introduction)
     - [2. Theory](#2-theory)
-        - [2.1 Multiple linear regression](#21-multiple-linear-regression)
-        - [2.2 Least squares estimation of the parameters](#22-least-squares-estimation-of-the-parameters)
-        - [2.3 Estimation of the error term](#23-estimation-of-the-error-term)
-        - [2.4 Tests for the significance of the regression](#24-tests-for-the-significance-of-the-regression)
-        - [2.5 Model building](#25-model-building)
+        - [2.1 Multiple Linear Regression](#21-multiple-linear-regression)
+        - [2.2 Least Squares Estimation of the Parameters](#22-least-squares-estimation-of-the-parameters)
+        - [2.3 Estimation of the Error Term](#23-estimation-of-the-error-term)
+        - [2.4 Tests for the Significance of the Regression](#24-tests-for-the-significance-of-the-regression)
+        - [2.5 Model Building](#25-model-building)
     - [3. Model](#3-model)
         - [3.1 Data Preparation](#31-data-preparation)
             - [3.1.1 Bus](#311-bus)
             - [3.1.2 Weather](#312-weather)
             - [3.1.3 Traffic](#313-traffic)
-        - [3.2 Building the model](#32-building-the-model)
-            - [3.2.1 MLR with weather](#321-mlr-with-weather)
-            - [3.2.2 MLR with traffic](#322-mlr-with-traffic)
+        - [3.2 Building the Model](#32-building-the-model)
+            - [3.2.1 MLR With Weather](#321-mlr-with-weather)
+            - [3.2.2 MLR With Traffic](#322-mlr-with-traffic)
     - [4. Conclusions](#4-conclusions)
     - [5. References](#5-references)
 - [Datasets](#datasets)
@@ -52,23 +52,23 @@ This notebook introduces the context and objectives of this project.
 ### 2. Theory
 These notebooks introduce the theoretical background of the project.
 
-- ### [2.1 Multiple linear regression](/Notebooks/2_1_Multiple_linear_regresion.ipynb)
-- ### [2.2 Least squares estimation of the parameters](/Notebooks/2_2_Least_square.ipynb)
-- ### [2.3 Estimation of the error term](/Notebooks/2_3_Error_term.ipynb)
-- ### [2.4 Tests for the significance of the regression](/Notebooks/2_4_Significance.ipynb)
-- ### [2.5 Model building](/Notebooks/2_5_Model_building.ipynb)
+- ### [2.1 Multiple Linear Regression](/Notebooks/2_1_Multiple_linear_regresion.ipynb)
+- ### [2.2 Least Squares Estimation of the Parameters](/Notebooks/2_2_Least_square.ipynb)
+- ### [2.3 Estimation of the Error Term](/Notebooks/2_3_Error_term.ipynb)
+- ### [2.4 Tests for the Significance of the Regression](/Notebooks/2_4_Significance.ipynb)
+- ### [2.5 Model Building](/Notebooks/2_5_Model_building.ipynb)
 
 ### 3. Model
 These notebooks present the model building process, including data preparation, variable selection, and final model building.
 
 - ### 3.1 Data Preparation
-    - #### [3.1.1 Bus](/Notebooks/3_1_1_Bus.ipynb)
-    - #### [3.1.2 Weather](/Notebooks/3_1_2_Weather.ipynb)
-    - #### [3.1.3 Traffic](/Notebooks/3_1_3_Traffic.ipynb)
+    - ### [3.1.1 Bus Data](/Notebooks/3_1_1_Bus.ipynb)
+    - ### [3.1.2 Weather Data](/Notebooks/3_1_2_Weather.ipynb)
+    - ### [3.1.3 Traffic Data](/Notebooks/3_1_3_Traffic.ipynb)
 
-- ### 3.2 Building the model
-    - #### [3.2.1 MLR with weather](/Notebooks/3_2_1_MLR_bus_weather.ipynb)
-    - #### [3.2.2 MLR with traffic](/Notebooks/3_2_2_MLR_bus_traffic.ipynb)
+- ### 3.2 Building the Model
+    - ### [3.2.1 MLR With Weather](/Notebooks/3_2_1_MLR_bus_weather.ipynb)
+    - ### [3.2.2 MLR With Traffic](/Notebooks/3_2_2_MLR_bus_traffic.ipynb)
 
 ### [4. Conclusions](/Notebooks/4_Conclusions.ipynb)
 This notebook summarizes the findings of the project and provides conclusions.
