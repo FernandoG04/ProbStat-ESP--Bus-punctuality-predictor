@@ -33,7 +33,7 @@ This repository contains assets related to the Program Comprehensive Assessment 
 To explore this projects, you can either:
 
 1. **Read on GitHub:**  
-    You can read the entire project on GitHub by navigating to the ["notebooks" section](#notebooks) or the ["notebooks" directory](/Notebooks clicking on the notebook you wish to view.
+    You can read the entire project on GitHub by navigating to the ["notebooks" section](#notebooks) or the ["notebooks" directory](/Notebooks/) clicking on the notebook you wish to view.
 
 2. **Run Locally:**  
     Clone this repository:
