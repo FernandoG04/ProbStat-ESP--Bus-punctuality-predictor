@@ -1,5 +1,17 @@
 # Predicting the Punctuality of Montreal's Bus Network
 
+## Notes for prof
+
+> - Abstract is missing some results, including naming dropped variables, mse, $R^2$, etc. I will add them later.  
+> - Introduction is not yet written. Will introduce the statistics given by STM reports and personal experience with the bus network.  
+> - [Section 2.4](/Notebooks/2_4_Significance.ipynb) only has the definition of the t-test and R^2. I may add the derivations later, but I am not sure if it is necessary. F-test is not included because it is not used in the project.  
+> - The model building notebooks are not yet formatted properly. I will add the proper formatting later.  
+> - The references are not properly organized yet. Footnotes are numbered equally for the same references for now.
+[References](/Notebooks/5_References.ipynb) contain only links to the sources, but I will add the full citations later and label footnotes in order of appearance in the text later.
+> - [Datasets](#datasets) section is not yet complete. II am not sure if I should describe the filtered datasets, the raw datasets, or both including the master dataset. I will add the description later.
+> - [Media](#media) section will include relevant images and graphs. The rest will remain in the media folder.
+
+
 ## Overview
 
 This repository contains assets related to the Program Comprehensive Assessment project (ESP) submitted to Ivan T. Ivanov for the Probability and Statistics 201-HTH-05 course. The project explores and applies multiple linear regression (MLR) techniques for constructing predictive models. In this repository, you will find Jupyter Notebooks that constitute the research, as well as their corresponding datasets and other related media assets. The project aims to predict the punctuality of buses in the STM network in the City of Montreal, employing a MLR model based on predetermined variables. Please refer to the following documentation for instructions on the use of this repository.
@@ -101,3 +113,5 @@ This section provides details about the datasets used this research project.
 
 
 ## Media (to be updated)
+
+[Link to the images folder](/Images/)
