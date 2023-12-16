@@ -6,6 +6,7 @@
 > - Introduction is not yet written. Will introduce the statistics given by STM reports and personal experience with the bus network.    
 > - The footnote citations are not properly organized yet. Footnotes are numbered equally for the same references for now.  
 > - [References](/Notebooks/5_References.ipynb) contain only links to the sources, but I will add the full citations later and label footnotes in order of appearance in the text later.
+> - [MLR with Weather](/Notebooks/3_1_MLR_bus_weather.ipynb) and [MLR with Traffic](/Notebooks/3_2_MLR_bus_traffic.ipynb) are where I summarize the results of the project. The whole code remains in the appendices.
 
 
 
