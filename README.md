@@ -3,13 +3,10 @@
 ## Notes for prof
 
 > - Abstract is missing some results, including naming dropped variables, mse, $R^2$, etc. I will add them later.  
-> - Introduction is not yet written. Will introduce the statistics given by STM reports and personal experience with the bus network.  
-> - [Section 2.4](/Notebooks/2_4_Significance.ipynb) only has the definition of the t-test and R^2. I may add the derivations later, but I am not sure if it is necessary. F-test is not included because it is not used in the project.  
-> - The model building notebooks are not yet formatted properly. I will add the proper formatting later.  
-> - The references are not properly organized yet. Footnotes are numbered equally for the same references for now.
-[References](/Notebooks/5_References.ipynb) contain only links to the sources, but I will add the full citations later and label footnotes in order of appearance in the text later.
-> - [Datasets](#datasets) section is not yet complete. II am not sure if I should describe the filtered datasets, the raw datasets, or both including the master dataset. I will add the description later.
-> - [Media](#media) section will include relevant images and graphs. The rest will remain in the media folder.
+> - Introduction is not yet written. Will introduce the statistics given by STM reports and personal experience with the bus network.    
+> - The footnote citations are not properly organized yet. Footnotes are numbered equally for the same references for now.  
+> - [References](/Notebooks/5_References.ipynb) contain only links to the sources, but I will add the full citations later and label footnotes in order of appearance in the text later.
+
 
 
 ## Overview
@@ -72,7 +69,7 @@ This notebook summarizes the findings of the project and provides conclusions.
 This notebook lists the references used in the project.
 
 ### 6. Appendices
-These notebooks provide additional information about the data preparation and model building process.
+These notebooks provide the code for the data preparation and the model building process.
 
 - ### 6.1 Appendix A: Data Preparation
     - ### [Appendix A.1: Bus Data](/Notebooks/6_1_1_Bus.ipynb)
@@ -94,29 +91,6 @@ To explore this projects, you can either:
     ```bash
     git clone https://github.com/FernandoG04/ProbStat-ESP--Bus-punctuality-predictor.git
     ```
-
-## Datasets
-
-This section provides details about the datasets used this research project.
-
-### List of Datasets (to be updated)
-
-1. **STM Bus Dataset**: 
-   - **Description:** Dataset containing bus-related data.
-   - **Source:** This data was provided by the STM under the terms of the *Act respecting access to documents held by public bodies and the protection of personal information (R.S.Q., chapter A-2.1)*. [Click for more information.](https://www.stm.info/en/about/corporate-governance/access-information)
-   - **Format:** CSV
-
-2. **Weather Dataset**
-   - **Description:** Dataset containing weather-related data.
-   - **Source:** This data was retrieved from Environment and Climate Change Canada and is searchable on [their site](https://climate.weather.gc.ca/historical_data/search_historic_data_e.html). The method of retrieving the data is described in the ["Weather data"](/Notebooks/3_1_2_Weather.ipynb) notebook.
-   - **Format:** CSV
-
-
-
-3. **Traffic Dataset**
-   - **Description:** Dataset containing traffic-related data.
-   - **Source:** This dataset was retrieved from the open data site of the City of Montreal. [Click for more information](https://donnees.montreal.ca/) (French)
-   - **Format:** CSV
 
 
 ## Media (to be updated)
