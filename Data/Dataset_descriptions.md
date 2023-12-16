@@ -1,7 +1,5 @@
 ## Datasets
 
-This section provides details about the datasets used this research project.
-
 ### List of Datasets (to be updated)
 
 1. **STM Bus Dataset**: 
