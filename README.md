@@ -1,15 +1,5 @@
 # Predicting the Punctuality of Montreal's Bus Network
 
-## Notes for prof
-
-> - Abstract is missing some results, including naming dropped variables, mse, $R^2$, etc. I will add them later.  
-> - Introduction is not yet written. Will introduce the statistics given by STM reports and personal experience with the bus network.    
-> - The footnote citations are not properly organized yet. Footnotes are numbered equally for the same references for now.  
-> - [References](/Notebooks/5_References.ipynb) contain only links to the sources, but I will add the full citations later and label footnotes in order of appearance in the text later.
-> - [MLR with Weather](/Notebooks/3_1_MLR_bus_weather.ipynb) and [MLR with Traffic](/Notebooks/3_2_MLR_bus_traffic.ipynb) are where I summarize the results of the project. The whole code remains in the appendices.
-
-
-
 ## Overview
 
 This repository contains assets related to the Program Comprehensive Assessment project (ESP) submitted to Ivan T. Ivanov for the Probability and Statistics 201-HTH-05 course. The project explores and applies multiple linear regression (MLR) techniques for constructing predictive models. In this repository, you will find Jupyter Notebooks that constitute the research, as well as their corresponding datasets and other related media assets. The project aims to predict the punctuality of buses in the STM network in the City of Montreal, employing a MLR model based on predetermined variables. Please refer to the following documentation for instructions on the use of this repository.
