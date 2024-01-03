@@ -119,8 +119,8 @@
 
    - **Description:** Datasets containing the master data for the project. The master dataset for the first attempt merges the STM bus dataset with the weather dataset. The master dataset for the second attempt merges the STM bus dataset with the weather dataset and the traffic dataset.  
 
-   > [!NOTE]
-   > The master datasets are created in the Appendices of the notebooks. See [Appendix A.1: Bus Data](/Notebooks/6_1_1_Bus.ipynb), [Appendix A.2: Weather Data](/Notebooks/6_1_2_Weather.ipynb), [Appendix A.3: Traffic Data](/Notebooks/6_1_3_Traffic.ipynb)
+> [!NOTE]  
+> The master datasets are created in the Appendices of the notebooks. See [Appendix A.1: Bus Data](/Notebooks/6_1_1_Bus.ipynb), [Appendix A.2: Weather Data](/Notebooks/6_1_2_Weather.ipynb), [Appendix A.3: Traffic Data](/Notebooks/6_1_3_Traffic.ipynb)
 
    - **Format:** CSV
    - **Files:** [`master_data.csv`](../Data/master_data.csv) , [`master_data_traffic.csv`](../Data/master_data_traffic.csv) 
