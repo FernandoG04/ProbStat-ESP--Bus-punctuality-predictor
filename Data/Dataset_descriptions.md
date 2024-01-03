@@ -26,6 +26,8 @@
 
    - **Files:** [`STM_Data_2021_2022.csv`](../Data/Transit%20data/STM_Data_2021_2022.csv)   , [`STM_Data_2023.csv`](../Data/Transit%20data/STM_Data_2023.csv)
    
+<br>
+
 2. **Weather Dataset**
 
    - **Description:** Datasets containing Montreal weather data from the Airport-Trudeau station, from October 2021 to September 2023. The data is split into two datasets, one containing daily weather data, and the other containing hourly weather data.
@@ -48,6 +50,8 @@
 
    - **Format:** CSV
    - **Files:** [`daily_montreal_weather.csv`](../Data/Weather%20Data/daily_montreal_weather.csv) , [`hourly_montreal_weather.csv`](../Data/Weather%20Data/hourly_montreal_weather.csv)
+
+<br>
 
 3. **Traffic Dataset**
 
