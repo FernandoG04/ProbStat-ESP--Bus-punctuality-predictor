@@ -38,9 +38,9 @@
 
    - **Source:** This data was retrieved from Environment and Climate Change Canada and is searchable on [their site](https://climate.weather.gc.ca/historical_data/search_historic_data_e.html).   
 
-   > [!NOTE]  
-   > This dataset is preprocessed for the purpose of this project. The original dataset contains more information. The method of retrieving the data is described in the ["Weather data"](/Notebooks/3_1_2_Weather.ipynb) notebook.
-   
+> [!NOTE]
+> This dataset is preprocessed for the purpose of this project. The original dataset contains more information. The method of retrieving the data is described in the ["Weather data"](/Notebooks/3_1_2_Weather.ipynb) notebook.
+
    - **Format:** CSV
    - **Files:** `daily_montreal_weather.csv`, `hourly_montreal_weather.csv`
 
