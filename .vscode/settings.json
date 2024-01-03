@@ -1,0 +1,12 @@
+{
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "jupyter-notebook",
+        "markdown",
+        "latex",
+        "plaintext",
+        "json"
+    ]
+}
