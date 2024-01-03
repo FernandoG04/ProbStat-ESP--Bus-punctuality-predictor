@@ -24,7 +24,7 @@
 
    - **Format:** CSV
 
-   - **Files:** [`STM_Data_2021_2022.csv`](../Data/Transit%20data/STM_Data_2021_2022.csv)   , [`STM_Data_2023.csv`](../Data/Transit%20data/STM_Data_2023.csv)
+   - **Files:** [`STM_Data_2021_2022.csv`](../Data/Transit%20data/STM_Data_2021_2022.csv) , [`STM_Data_2023.csv`](../Data/Transit%20data/STM_Data_2023.csv)
    
 <br>
 
@@ -55,7 +55,7 @@
 
 3. **Traffic Dataset**
 
-   - **Description:** Dataset containing Montreal  traffic-related data from November 26, 2019 to September 9, 2023.
+   - **Description:** Dataset containing Montreal traffic-related data from November 26, 2019 to September 9, 2023.
 
    - **Data Dictionary (from source):**  
    
