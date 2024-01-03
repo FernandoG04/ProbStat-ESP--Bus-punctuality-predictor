@@ -24,10 +24,8 @@
 
    - **Format:** CSV
 
-   - **Files:** `STM_Data_2021_2022.csv`, `STM_Data_2023.csv`
-
-
-
+   - **Files:** [`STM_Data_2021_2022.csv`](../Data/Transit%20data/STM_Data_2021_2022.csv)   , [`STM_Data_2023.csv`](../Data/Transit%20data/STM_Data_2023.csv)
+   
 2. **Weather Dataset**
 
    - **Description:** Datasets containing Montreal weather data from the Airport-Trudeau station, from October 2021 to September 2023. The data is split into two datasets, one containing daily weather data, and the other containing hourly weather data.
@@ -49,7 +47,7 @@
 > This dataset is preprocessed for the purpose of this project. The original dataset contains more information. The method of retrieving the data is described in the ["Weather data"](/Notebooks/3_1_2_Weather.ipynb) notebook.
 
    - **Format:** CSV
-   - **Files:** `daily_montreal_weather.csv`, `hourly_montreal_weather.csv`
+   - **Files:** [`daily_montreal_weather.csv`](../Data/Weather%20Data/daily_montreal_weather.csv) , [`hourly_montreal_weather.csv`](../Data/Weather%20Data/hourly_montreal_weather.csv)
 
 3. **Traffic Dataset**
 
@@ -106,6 +104,7 @@
       | `Localisation_Y`          | `float`      | Location Y in Québec Modified Transverse Mercator Zone 8 (NAD83) |
       | `Longitude`               | `float`      | Longitude in WGS 84                                              |
       | `Latitude`                | `float`      | Latitude in WGS 84                                               |
-      
+
    - **Source:** This dataset was retrieved from the data collection [Comptages des véhicules, cyclistes et piétons aux intersections munies de feux de circulation](https://donnees.montreal.ca/dataset/comptage-vehicules-pietons) from the City of Montreal's Open Data Portal.
    - **Format:** CSV
+   - **File:** [`traffic_data.csv`](../Data/Traffic%20Data/traffic_data.csv) 
