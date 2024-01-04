@@ -1,3 +1,4 @@
 Notebooks/navigation_files.py
 Images/figures.ipynb
-.vscode/
+.vscode/settings.json
+.vscode/spellright.dict
