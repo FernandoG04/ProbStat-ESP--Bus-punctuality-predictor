@@ -43,29 +43,29 @@ To explore this project, you can either:
 > [!NOTE]
 > This project used the [Jupyter extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), which handles the installation of Jupyter Notebook. If you are using Visual Studio Code, you can install this extension and open the notebooks directly from the editor. The appropriate Jupyter version is required for this extension to work. The version used in this project is listed in the requirements file (see below).
 
-    To run this project locally, follow these steps:  
+To run this project locally, follow these steps:  
 
 
-    It's recommended to create a virtual environment before proceeding:
+It's recommended to create a virtual environment before proceeding:
 
-    ```bash
-    python3 -m venv env
-    source env/bin/activate  # On Windows, use `env\Scripts\activate`
-    ```
+```bash
+python3 -m venv env
+source env/bin/activate  # On Windows, use `env\Scripts\activate`
+```
 
-    Clone this repository:
+Clone this repository:
 
-    ```bash
-    git clone https://github.com/FernandoG04/ProbStat-ESP--Bus-punctuality-predictor.git
-    ```
+```bash
+git clone https://github.com/FernandoG04/ProbStat-ESP--Bus-punctuality-predictor.git
+```
 
-    Install the dependencies:
+Install the dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
 
-    Then, open the notebook you wish to run in the Jupyter Notebook interface in your browser.
+Then, open the notebook you wish to run in the Jupyter Notebook interface in your browser.
 
 ## Notebooks
 
