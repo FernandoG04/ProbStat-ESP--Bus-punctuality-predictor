@@ -31,6 +31,42 @@ This repository contains assets related to the Program Comprehensive Assessment 
 - [Datasets](#datasets)
 - [Media](#media)
 
+## Getting Started
+To explore this project, you can either:
+
+1. **Read on GitHub:**  
+    You can read the entire project on GitHub by navigating to the ["notebooks" section](#notebooks) or the ["notebooks" directory](/Notebooks/) clicking on the notebook you wish to view.
+
+2. **Run Locally:**  
+    This project was developed using Python 3.11.5 and Jupyter Notebook. If you don't have them installed, you can follow these guides: [Python](https://www.python.org/downloads/), [Jupyter](https://jupyter.org/install).
+
+    > [!NOTE]
+    > This project used the [Jupyter extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), which handles the installation of Jupyter Notebook. If you are using Visual Studio Code, you can install this extension and open the notebooks directly from the editor. The appropriate Jupyter version is required for this extension to work. The version used in this project is listed in the requirements file (see below).
+
+    To run this project locally, follow these steps:  
+
+
+    It's recommended to create a virtual environment before proceeding:
+
+    ```bash
+    python3 -m venv env
+    source env/bin/activate  # On Windows, use `env\Scripts\activate`
+    ```
+
+    Clone this repository:
+
+    ```bash
+    git clone https://github.com/FernandoG04/ProbStat-ESP--Bus-punctuality-predictor.git
+    ```
+
+    Install the dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+    Then, open the notebook you wish to run in the Jupyter Notebook interface in your browser.
+    
 ## Notebooks
 
 ### [0. Abstract](/Notebooks/0_Abstract.ipynb)
@@ -70,18 +106,6 @@ These notebooks provide the code for the data preparation and the model building
 - ### 6.2 Appendix B: Building the Model
     - ### [Appendix B.1: MLR With Weather](/Notebooks/6_2_1_MLR_bus_weather.ipynb)
     - ### [Appendix B.2: MLR With Traffic](/Notebooks/6_2_2_MLR_bus_traffic.ipynb)
-
-## Getting Started
-To explore this projects, you can either:
-
-1. **Read on GitHub:**  
-    You can read the entire project on GitHub by navigating to the ["notebooks" section](#notebooks) or the ["notebooks" directory](/Notebooks/) clicking on the notebook you wish to view.
-
-2. **Run Locally:**  
-    Clone this repository:
-    ```bash
-    git clone https://github.com/FernandoG04/ProbStat-ESP--Bus-punctuality-predictor.git
-    ```
 
 ## Datasets
 
