@@ -87,6 +87,20 @@ To explore this projects, you can either:
 
 [Link to the datasets folder](/Data/Dataset_descriptions.md)  
 
-## Media (to be updated)
+## Media
 
 [Link to the images folder](/Images/)
+
+<td style="text-align: center; border: none;">
+  
+<p style="text-align: center;"><img src="Images/2_2_1.png" alt="Figure 2.2.1" /></p>
+  
+<p style="text-align: center;"><strong><em>Figure 2.2.1: Linear regression with two variables.</em></strong><p>
+  
+</td>
+
+<td style="text-align: center; border: none;">
+
+<p style="text-align: center;"><img src="Images/2_2_2.gif" alt="Figure 2.2.2" /></p>
+
+<p style="text-align: center;"><strong><em>Figure 2.2.2: Linear regression with two variables.</em></strong></p>
