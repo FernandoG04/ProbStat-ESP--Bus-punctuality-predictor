@@ -40,8 +40,8 @@ To explore this project, you can either:
 2. **Run Locally:**  
     This project was developed using Python 3.11.5 and Jupyter Notebook. If you don't have them installed, you can follow these guides: [Python](https://www.python.org/downloads/), [Jupyter](https://jupyter.org/install).
 
-    > [!NOTE]
-    > This project used the [Jupyter extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), which handles the installation of Jupyter Notebook. If you are using Visual Studio Code, you can install this extension and open the notebooks directly from the editor. The appropriate Jupyter version is required for this extension to work. The version used in this project is listed in the requirements file (see below).
+> [!NOTE]
+> This project used the [Jupyter extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), which handles the installation of Jupyter Notebook. If you are using Visual Studio Code, you can install this extension and open the notebooks directly from the editor. The appropriate Jupyter version is required for this extension to work. The version used in this project is listed in the requirements file (see below).
 
     To run this project locally, follow these steps:  
 
@@ -66,7 +66,7 @@ To explore this project, you can either:
     ```
 
     Then, open the notebook you wish to run in the Jupyter Notebook interface in your browser.
-    
+
 ## Notebooks
 
 ### [0. Abstract](/Notebooks/0_Abstract.ipynb)
