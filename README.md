@@ -91,16 +91,28 @@ To explore this projects, you can either:
 
 [Link to the images folder](/Images/)
 
+<table align="center" style="border: none;">
+<tr>
 <td style="text-align: center; border: none;">
   
 <p style="text-align: center;"><img src="Images/2_2_1.png" alt="Figure 2.2.1" /></p>
   
-<p style="text-align: center;"><strong><em>Figure 2.2.1: Linear regression with two variables.</em></strong><p>
+<p style="text-align: center;"><strong><em>Figure 2.2.1: Simple linear regression.</em></strong></p>
   
 </td>
+</tr>
+</table>
 
+<br>
+
+<table align="center" style="border: none;">
+<tr>
 <td style="text-align: center; border: none;">
 
 <p style="text-align: center;"><img src="Images/2_2_2.gif" alt="Figure 2.2.2" /></p>
 
-<p style="text-align: center;"><strong><em>Figure 2.2.2: Linear regression with two variables.</em></strong></p>
+<p style="text-align: center;"><strong><em>Figure 2.2.2: Multiple linear regression with two predictors.</em></strong></p>
+
+</td>
+</tr>
+</table>
